@@ -1,0 +1,10 @@
+{
+  "simulation": "simulation.First_Gatling_Script",
+  "simulationId": "first-gatling-script",
+  "start": 1690783159439,
+  "description": "test",
+  "scenarios": ["firstAPIrequest"],
+  "assertions": [
+
+  ]
+}

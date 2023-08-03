@@ -1,0 +1,4 @@
+RUN	simulation.First_Gatling_Script	first-gatling-script	1690783159439	test	3.6.1
+USER	firstAPIrequest	START	1690783161903
+REQUEST		getUserAPI	1690783161935	1690783162202	OK	 
+USER	firstAPIrequest	END	1690783162260
